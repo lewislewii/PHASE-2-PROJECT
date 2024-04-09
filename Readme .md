@@ -44,7 +44,8 @@ Multiple Linear Regression Model.This suggests that the polynomial regression yi
 RMSE of the polynomial regression also suggests the same since it is also lower than the multiple linear
 regression model.
 
-![WhatsApp Image 2024-04-09 at 12 00 30_6957f2c6](https://github.com/lewislewii/PHASE-2-PROJECT/assets/151353099/7a723dc5-ae06-4b64-9d7a-4b70bb6aa7cd)
+![WhatsApp Image 2024-04-09 at 12 00 54_56187a16](https://github.com/lewislewii/PHASE-2-PROJECT/assets/151353099/b38070d6-2d8f-4a2f-867f-259131e5c33e)
+
 
 ## Conclusions
 In this project, we conducted an in-depth analysis of the King County (KC) house
