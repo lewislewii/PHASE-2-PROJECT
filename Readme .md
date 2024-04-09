@@ -16,6 +16,7 @@ OBJECTIVES:
 
 4.To provide valuable insights for real estate agents, property developers, and investors in the company’s portfolio to make informed decisions regarding pricing, renovations, and marketing strategies
 
+![WhatsApp Image 2024-04-09 at 12 00 30_963f6fcc](https://github.com/lewislewii/PHASE-2-PROJECT/assets/151353099/d8ad3368-c198-453e-b526-314a451ea845)
 
 ## Baseline model interpretation
 Our linear regression model is Price = 0.2923 * Grading + 10.7957.
@@ -43,6 +44,7 @@ Multiple Linear Regression Model.This suggests that the polynomial regression yi
 RMSE of the polynomial regression also suggests the same since it is also lower than the multiple linear
 regression model.
 
+![WhatsApp Image 2024-04-09 at 12 00 30_6957f2c6](https://github.com/lewislewii/PHASE-2-PROJECT/assets/151353099/7a723dc5-ae06-4b64-9d7a-4b70bb6aa7cd)
 
 ## Conclusions
 In this project, we conducted an in-depth analysis of the King County (KC) house
